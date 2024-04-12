@@ -1,0 +1,134 @@
+{
+    "products": [
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        },
+        {
+            "title": "Tatto Supplies",
+            "src": "./images/tattoo-machine.svg"
+        }
+    ],
+    "community": [
+        {
+            "description": "On Hard Work and Evolution with Tatto",
+            "date": "Apr 12, 2024",
+            "artist": "Artist Autumn Hudson",
+            "src": "./images/tatto-artist.jpg"
+        },
+        {
+            "description": "On Hard Work and Evolution with Tatto",
+            "date": "Apr 12, 2024",
+            "artist": "Artist Autumn Hudson",
+            "src": "./images/tatto-artist.jpg"
+        },
+        {
+            "description": "On Hard Work and Evolution with Tatto",
+            "date": "Apr 12, 2024",
+            "artist": "Artist Autumn Hudson",
+            "src": "./images/tatto-artist.jpg"
+        },
+        {
+            "description": "On Hard Work and Evolution with Tatto",
+            "date": "Apr 12, 2024",
+            "artist": "Artist Autumn Hudson",
+            "src": "./images/tatto-artist.jpg"
+        },
+        {
+            "description": "On Hard Work and Evolution with Tatto",
+            "date": "Apr 12, 2024",
+            "artist": "Artist Autumn Hudson",
+            "src": "./images/tatto-artist.jpg"
+        },
+        {
+            "description": "On Hard Work and Evolution with Tatto",
+            "date": "Apr 12, 2024",
+            "artist": "Artist Autumn Hudson",
+            "src": "./images/tatto-artist.jpg"
+        }
+    ],
+    "newProducts": [
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        },
+        {
+            "description": "Rook Quill Rotary Tattoo Machine",
+            "src": "./images/new-product.jpeg",
+            "price": "20$"
+        }
+    ]
+}
